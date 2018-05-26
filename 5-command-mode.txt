@@ -1,0 +1,18 @@
+                            Chapter 5: Command Mode
+
+In this chapter:
+  :set
+  :help
+  :r
+  :e
+  :w
+  :x
+  :sh, !
+
+1. Show variables and help
+
+2. What was that story from Chapter 2?
+
+3. What directory am I in?
+
+4. I forgot my ip address!

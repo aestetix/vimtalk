@@ -1,0 +1,10 @@
+                        Chapter 7a: Using multiple files
+
+1. Buffers
+
+2. Screen splitting
+
+3. Yanking and pasting
+42
+
+4. vimdiff

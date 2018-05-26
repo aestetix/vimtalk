@@ -1,0 +1,66 @@
+                            Chapter 4: More Editing
+
+Here are some of the concepts for this chapter:
+* visual mode
+* folds
+* changing text
+* copy and paste
+* using the . command
+
+1. Editing with visual mode
+
+a. Character (v):
+    blahblahblahblahtext to yankblahblah
+
+b. Linewise (SHIFT-v):
+
+   Useless line
+   Another useless line
+   Here is a valuable line
+   More useless line junk
+   One last useless line
+
+c. Blockwise (CTRL-v):
+
+   uselesshjunkcharacters
+   uselessajunkcharacters
+   uselessijunkcharacters
+   uselessljunkcharacters
+   uselessejunkcharacters
+   uselessrjunkcharacters
+   uselessijunkcharacters
+   uselesssjunkcharacters
+
+2. Let's fix some simple HTML
+
+<html>
+  <head>
+    <title>Hi, Berlinsides</title>
+  <body>
+    <b>test</b>
+    <b>Does it work?</b>
+    <b>Does it work?</b>
+    <b>Does it work?</b>
+    <b>Does it work?</b>
+  </body>extra text to delete
+</html>
+
+3. Let's create a new class based on the old one
+
+class calculator() {
+  function add();
+  function sub();
+  function mul();
+  function div();
+}
+
+Now create a class "calculate64" with 64 bit functions:
+
+4. Let's convert a user list into a CSV
+
+James Brown
+Stevie Wonder
+George Clinton
+Kid Rock
+Lady Gaga
+Billy Corgan

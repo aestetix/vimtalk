@@ -1,0 +1,20 @@
+                              Chapter 8: Registers
+
+1. What are registers?
+
+Copy this line into register "
+
+Copy this line into register 1
+
+2. Order these properly, using registers
+
+Bad order:
+
+2 Philosophy and Medicine,
+5 And here, at last, I stand, poor fool!
+1 Have now, alas! quite studied through
+4 With hot desire the truth to win!
+3 And Law, and ah! Theology, too,
+6 As wise as when I entered school;
+
+Correct order:

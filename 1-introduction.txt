@@ -1,0 +1,12 @@
+                            Chapter 1: Introduction
+
+* vim is a language
+
+* vim is modal
+
+* everything in this talk is core vim, using no plugins
+
+* if you want to follow along:
+  https://tinyurl.com/vimtalk
+
+(which is a tinyurl to https://github.com/aestetix/vimtalk)

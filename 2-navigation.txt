@@ -1,0 +1,46 @@
+                          Chapter 2: Basic Navigation
+
+h = left
+j = down
+k = up
+l = right
+
+1. We can use the w and b commands to move forward and backwards a single
+alphanumeric word.
+
+2. We can use the "W" and "B" commands if there's a word with quotes or punctation.
+
+3. But what if we have a couple sentences and moving by words is too slow? It
+turns out we can use the "(" and ")" operators to move even faster. Isn't that
+cool?
+
+4. And if we want to move by paragraphs, we can just use the "{" and "}" operators:
+
+An unassuming young man was travelling, in midsummer, from his native city of
+Hamburg to Davos-Platz in the Canton of the Grisons, on a three weeks’ visit.
+
+From Hamburg to Davos is a long journey — too long, indeed, for so brief a
+stay. It crosses all sorts of country; goes up hill and down dale, descends
+from the plateau of Southern Germany to the shore of Lake Constance, over its
+bounding waves and on across marshes once thought to be bottomless.
+
+At this point the route, which has been so far over trunk-lines, gets cut up.
+There are stops and formalities. At Rorschach, in Swiss territory, you take
+train again, but only as far as Landquart, a small Alpine station, where you
+have to change. Here, after a long and windy wait in a spot devoid of charm,
+you mount a nar- row-gauge train; and as the small but very powerful engine
+gets under way, there begins the thrilling part of the journey, a steep and
+steady climb that seems never to come to an end. For the sta- tion of Landquart
+lies at a relatively low altitude, but now the wild and rocky route pushes
+grimly onward into the Alps themselves.
+
+Hans Castorp — such was the young man's name — sat alone in his little
+grey-upholstered compartment, with his alligator-skin hand-bag, a present from
+his uncle and guardian, Consul Tienappel — let us get the introductions over
+with at once — his travelling- rug, and his winter overcoat swinging on its
+hook. The window was down, the afternoon grew cool, and he, a tender product of
+the sheltered life, had turned up the collar of his fashionably cut, silk-lined
+summer overcoat. Near him on the seat lay a paper- bound volume entitled Ocean
+Steamships; earlier in the journey he had studied it off and on, but now it lay
+neglected, and the breath of the panting engine, streaming in, defiled its
+cover with particles of soot.

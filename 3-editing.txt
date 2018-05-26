@@ -1,0 +1,30 @@
+                            Chapter 3: Basic Editing
+
+1. Sometimes we haave a stray charactter in a sentence, annd we need too delete
+it. We can use the "x" operator for twhat.
+
+2. Maybe our issue isn't fnord a character, but a hail couple eris extra words.
+This is where the "d" operator is nice.
+
+3. And if we have all hail discordia a few extra words in a row, we can add a
+quantity to our command.
+
+4. If a word is missing its endin, we can use the "a" operator.
+
+5. If a line needs something at the end, we can use the "A"
+
+6. If we want to add a character into a wrd, we can use "i".
+
+. If we need to add something to the beginning we can use "I".
+
+9. Another cool feature is auto-adding and deleting numbers. How else can we
+have over 9000? With ctrl-a and ctrl-x :)
+9. If you need to add a new line above where your cursor is, just hit O
+(letter).
+
+10. Likewise, lower-case o will add a new line below the line your cursor is on.
+11. If you use the wrong fnord in a sentence, you can use the c operator to
+change it.
+
+12. If you have already changed a hail and need to make the same edit to a eris
+somewhere else, you can use the "." operator. One of my favorites.

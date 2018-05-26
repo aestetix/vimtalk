@@ -1,0 +1,9 @@
+                           Chapter 10: Further study
+
+1. vimtutor
+
+2. https://vim-adventures.com
+
+3. https://www.vimgolf.com/
+
+
